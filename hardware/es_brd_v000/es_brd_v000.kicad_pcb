@@ -2010,7 +2010,7 @@
 				)
 			)
 		)
-		(property "Value" "HJR-21FF"
+		(property "Value" "HJR-3FF"
 			(at 8 -9.6 90)
 			(layer "F.Fab")
 			(uuid "c8f958ae-e2ff-43a6-9c95-268d60241f3e")
@@ -2021,7 +2021,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://cdn.ozdisan.com/public/product/assets/HJR-21FF.pdf?response-content-type=application%2Fpdf&response-content-disposition=inline"
+		(property "Datasheet" "https://cdn.ozdisan.com/public/product/assets/HJR-3FF.pdf?response-content-type=application%2Fpdf&response-content-disposition=inline%3B%20filename%3D\"HJR-3FF.pdf\""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2034,7 +2034,7 @@
 				)
 			)
 		)
-		(property "Description" "RELAY 15A 12VDC 1FormC"
+		(property "Description" "RELAY POWER 7A 5VDC SPDT (1 Form C) THT 5 Pin"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2047,7 +2047,7 @@
 				)
 			)
 		)
-		(property "Link" "https://www.ozdisan.com/p/genel-tip-roleler-403/tianbo-hjr-21ff-s-z-12vdc-497291"
+		(property "Link" "https://www.ozdisan.com/p/genel-tip-roleler-403/tianbo-hjr-3ff-s-z-4-05vdc-415763"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")

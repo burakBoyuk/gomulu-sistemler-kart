@@ -18,13 +18,15 @@ YouTube'daki **Gömülü Sistemler** serisinde sıfırdan tasarladığımız ATm
 |---|---|
 | `hardware/` | KiCad projesi (şematik, PCB, BOM) |
 | `firmware/` | Örnek kodlar (bölümler ilerledikçe) |
-| `docs/` | Şematik PDF ve görseller |
+| `docs/` | Şematik PDF |
 
-Gerber, drill, STEP ve şematik PDF gibi üretim dosyaları depoda tutulmaz; her sürümün **Releases** sayfasında bulunur.
+Şematiğin PDF hâli: [`docs/es_brd_v000-schematic.pdf`](docs/es_brd_v000-schematic.pdf).
+Gerber ve drill dosyaları depoda tutulmaz; KiCad'de **File → Fabrication Outputs** ile üretilebilir.
+Kart revizyonları `rev-vXYZ` etiketleriyle işaretlidir.
 
 ## Açmak için
 
-Proje **KiCad 10** ile hazırlandı. Daha eski sürümler dosyaları açamaz; KiCad kurmadan bakmak için Releases'teki şematik PDF'i kullanabilirsiniz.
+Proje **KiCad 10** ile hazırlandı. Daha eski sürümler dosyaları açamaz; KiCad kurmadan bakmak için şematik PDF'i kullanabilirsiniz.
 
 Tüm semboller ve footprint'ler KiCad'in kendi kütüphanelerinden; ek kütüphane gerekmez.
 
