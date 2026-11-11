@@ -1,0 +1,37 @@
+# KiCad backups and local state
+*-backups/
+.history/
+*.kicad_prl
+fp-info-cache
+_autosave-*
+~*.lck
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+\#auto_saved_files#
+
+# Local review tool output (contains absolute paths)
+review/
+
+# Fabrication outputs: published as Release assets, not tracked
+gerber*/
+*.zip
+*.gbr
+*.drl
+*.gbrjob
+*.pos
+*.step
+
+# Generated exports
+output/
+
+# Netlist / autorouter
+*.net
+*.dsn
+*.ses
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
